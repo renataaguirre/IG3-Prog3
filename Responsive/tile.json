@@ -1,0 +1,8 @@
+{
+    "title": "Responsive",
+    "folder": "reponsive",
+    "description": "Responsive design refers to a method of designing websites where the layout adjusts to the screen size of the device being used. This results in improved user experience, as it makes navigation, usability, and information retrieval easier. This flexibility is achieved through the use of media queries, which allow the design to adapt seamlessly to the available space on the user's screen. In addition, design elements are sized using relative units such as percentages to maintain consistency in content display across devices.",
+    "tags": ["Web Design", "Interface", "Media Queries"],
+    "author": "Reny Aguirre",
+    "github": "https://github.com/caitoor/ig3_prog3_lexikon"
+    }
